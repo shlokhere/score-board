@@ -1,0 +1,47 @@
+body {
+    margin: 0;
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+#home-score {
+    background: #0a0001;
+    color: #F94F6D;
+    height: 25vh;
+    width: 25vw;
+    margin: 20px;
+    font-size: 6rem;
+                                                
+}
+
+#guest-score {
+    background: #0a0001;
+    color: #F94F6D;
+    height: 25vh;
+    width: 25vw;
+    margin: 20px;
+    font-size: 6rem;
+
+}
+
+button {
+    background: none;
+}
+
+h1 {
+    margin-top: 10vh;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#new-game {
+
+    background: #0a0001;
+    color: #F94F6D;
+    font-size: 1rem;
+    
+
+}
